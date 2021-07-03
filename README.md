@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naweddiwan
-- 👀 I’m interested in learning and enhancing new and existing skills
-- 🌱 I’m currently learning node, mysql, svelte
+- 👀 I am a software engineer and a tech enthusiast.
+- 🌱 I’m currently learning node, mysql, linux, etc
 
 <!---
 naweddiwan/naweddiwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
