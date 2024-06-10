@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naweddiwan
 - 👀 I am a software engineer and a tech enthusiast.
-- 🌱 I’m currently learning node, mysql, linux, etc
+- 🌱 I’m currently learning golang, node, mysql, linux, etc
 - 👨‍💻 I also practice problem solving on [leetcode](https://leetcode.com/nawedn/) and [hackerrank](https://www.hackerrank.com/nawedn). 
 
 <!---
